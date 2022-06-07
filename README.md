@@ -5,7 +5,7 @@ To run it on your machine, start by cloning the repo with:
 ```bash
 git clone git@github.com:DijiOfficial/FullStack-Task-Manager-With-sqlite3.git
 ```
-Move into the repo with and download the dependencies with:
+Move into the repo and download the dependencies with:
 ```bash
 npm install
 ```
