@@ -14,3 +14,9 @@ And run it using:
 npm start
 ```
 Finally you can check it out on http://localhost:3000 !
+The application is a bit buggy and doesn't register/refresh properly after creating or deleting tasks. (manual reloads may fix it).
+
+To stop the application simply press "Ctrl + C" in the terminal.
+
+![TaskManagerImage](assets/img/taskManager.png)
+
