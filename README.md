@@ -13,7 +13,7 @@ And run it using:
 ```bash
 npm start
 ```
-Finally you can check it out on http://localhost:3000 !
+Finally you can check it out on http://localhost:3000 !\n
 The application is a bit buggy and doesn't register/refresh properly after creating or deleting tasks. (manual reloads may fix it).
 
 To stop the application simply press "Ctrl + C" in the terminal.
