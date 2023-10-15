@@ -19,5 +19,5 @@ The application is a bit buggy and doesn't register/refresh properly after creat
 
 To stop the application simply press "Ctrl + C" in the terminal.
 
-![TaskManagerImage](assets/img/taskManager.png)
+![TaskManagerImage](assets/img/taskManager.PNG)
 
